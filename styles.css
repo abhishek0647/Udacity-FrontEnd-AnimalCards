@@ -1,0 +1,30 @@
+/* add your CSS here */
+body {
+	border: 1px solid #ccc;
+	margin: 15px;
+	padding: 15px;
+  box-shadow: 7px 7px 5px #ccc;
+}
+
+img {
+	width: 300px;
+}
+
+.animal-content {
+	border: 2px solid #ccc;
+	padding: 15px;
+	margin-top: 15px;
+}
+
+.interesting-fact {
+	font-style: italic;
+}
+
+.label {
+	font-weight: 800;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
